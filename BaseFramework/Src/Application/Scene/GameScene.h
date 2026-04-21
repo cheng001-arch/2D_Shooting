@@ -13,5 +13,7 @@ public:
 	void Init();//初始化
 	void Release();//释放 解放处理
 	//private: 只有类内能访问
+
+	int Test = 0;
 private:
 };
